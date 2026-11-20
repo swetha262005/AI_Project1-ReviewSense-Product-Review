@@ -1,0 +1,21 @@
+SENTIMENT MODEL EVALUATION
+========================================
+Total reviews: 2000
+Training reviews: 1600
+Testing reviews: 400
+Accuracy: 89.75%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative       0.67      0.56      0.61        57
+    Positive       0.93      0.95      0.94       343
+
+    accuracy                           0.90       400
+   macro avg       0.80      0.76      0.78       400
+weighted avg       0.89      0.90      0.89       400
+
+
+Confusion Matrix:
+[[ 32  25]
+ [ 16 327]]

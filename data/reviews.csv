@@ -1,0 +1,22 @@
+
+product,review,sentiment
+Phone A,The battery life is excellent,positive
+Phone A,The camera quality is amazing,positive
+Phone A,The phone works very smoothly,positive
+Phone A,I love this phone,positive
+Phone A,The display is bright and clear,positive
+Phone A,The battery drains very quickly,negative
+Phone A,The phone hangs frequently,negative
+Phone A,The camera quality is poor,negative
+Phone A,I am disappointed with this phone,negative
+Phone A,The phone is very slow,negative
+Phone B,The battery lasts all day,positive
+Phone B,The sound quality is excellent,positive
+Phone B,This phone is easy to use,positive
+Phone B,The performance is very good,positive
+Phone B,I am happy with this phone,positive
+Phone B,The battery life is terrible,negative
+Phone B,The screen stopped working,negative
+Phone B,The phone gets very hot,negative
+Phone B,The camera is disappointing,negative
+Phone B,This phone is not worth the money,negative
